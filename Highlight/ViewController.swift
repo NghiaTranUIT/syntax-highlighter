@@ -76,6 +76,12 @@ class ViewController: NSViewController {
         setupUI(isHorizontalScrollingEnabled: false)
         setupLayout()
 
+        textView.lnv_setUpLineNumberView()
+
+        let color = (textStorage.highlightr.theme.themeBackgroundColor)!
+        textView.backgroundColor = color
+        textView.lineNumberView.wantsLayer = true
+        textView.lineNumberView.layer?.backgroundColor = color.cgColor
     }
 }
 
@@ -84,7 +90,7 @@ extension ViewController {
     fileprivate func setupTextStack() {
 
         textStorage.language = "json"
-        textStorage.highlightr.setTheme(to: "atom-one-dark")
+        textStorage.highlightr.setTheme(to: "googlecode")
         textStorage.highlightr.theme.codeFont = NSFont.systemFont(ofSize: 14.0)
 
         print(textStorage.highlightr.supportedLanguages())
@@ -115,7 +121,8 @@ extension ViewController {
         textView.isVerticallyResizable = true
         textView.isHorizontallyResizable = isHorizontalScrollingEnabled
         textView.frame.size = CGSize(width: contentSize.width, height: contentSize.height)
-        textView.backgroundColor = (textStorage.highlightr.theme.themeBackgroundColor)!
+
+
 
         if isHorizontalScrollingEnabled {
             textView.autoresizingMask = [.width, .height]

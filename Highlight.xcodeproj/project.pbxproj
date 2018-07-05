@@ -14,6 +14,7 @@
 		BAE438FA20ED2FE6001A42F7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAE438F820ED2FE6001A42F7 /* Main.storyboard */; };
 		BAE4390620ED2FE6001A42F7 /* HighlightTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAE4390520ED2FE6001A42F7 /* HighlightTests.swift */; };
 		BAE4391120ED308D001A42F7 /* sample.txt in Resources */ = {isa = PBXBuildFile; fileRef = BAE4391020ED308D001A42F7 /* sample.txt */; };
+		BAE4391320EDBB41001A42F7 /* LineNumberRulerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAE4391220EDBB41001A42F7 /* LineNumberRulerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,6 +42,7 @@
 		BAE4390520ED2FE6001A42F7 /* HighlightTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HighlightTests.swift; sourceTree = "<group>"; };
 		BAE4390720ED2FE7001A42F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BAE4391020ED308D001A42F7 /* sample.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = sample.txt; sourceTree = "<group>"; };
+		BAE4391220EDBB41001A42F7 /* LineNumberRulerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LineNumberRulerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 		BAE438F120ED2FE5001A42F7 /* Highlight */ = {
 			isa = PBXGroup;
 			children = (
+				BAE4391220EDBB41001A42F7 /* LineNumberRulerView.swift */,
 				BAE438F220ED2FE5001A42F7 /* AppDelegate.swift */,
 				BAE438F420ED2FE5001A42F7 /* ViewController.swift */,
 				BAE438F620ED2FE6001A42F7 /* Assets.xcassets */,
@@ -266,6 +269,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BAE4391320EDBB41001A42F7 /* LineNumberRulerView.swift in Sources */,
 				BAE438F520ED2FE5001A42F7 /* ViewController.swift in Sources */,
 				BAE438F320ED2FE5001A42F7 /* AppDelegate.swift in Sources */,
 			);

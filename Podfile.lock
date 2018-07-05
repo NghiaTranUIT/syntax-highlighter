@@ -1,0 +1,28 @@
+PODS:
+  - Highlightr (2.1.1)
+  - TinyConstraints (3.1.1)
+
+DEPENDENCIES:
+  - Highlightr (from `https://github.com/NghiaTranUIT/Highlightr.git`)
+  - TinyConstraints
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - TinyConstraints
+
+EXTERNAL SOURCES:
+  Highlightr:
+    :git: https://github.com/NghiaTranUIT/Highlightr.git
+
+CHECKOUT OPTIONS:
+  Highlightr:
+    :commit: d9672a4bfa0a984bee4ea9e43f29d153fd98cef0
+    :git: https://github.com/NghiaTranUIT/Highlightr.git
+
+SPEC CHECKSUMS:
+  Highlightr: 73df7b6adf43b398151c96bad331500ec49bf1c1
+  TinyConstraints: c15ce864e9ef87dfd18ee3bd746d510a38d84198
+
+PODFILE CHECKSUM: a9863b0b9fc90489ae4814845a162f6a7438b383
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,32 @@
+{
+    "code": 200,
+    "data": {
+        "author": {
+            "born": "10 February 1791",
+            "created_at": "2018-06-11T04:58:03.043476Z",
+            "died": "21 December 1882",
+            "id": "0cb35abd-887b-4cf0-9f4d-6338ee871ec4",
+            "name": "Francesco Hayez",
+            "nationality": "Italian",
+            "original_source": "https://www.wikiart.org/en/francesco-hayez",
+            "photos": null,
+            "updated_at": "2018-06-11T04:58:03.043477Z",
+            "wikipedia": "en.wikipedia.org/wiki/Francesco_Hayez"
+        },
+        "created_at": "2018-06-11T04:58:03.061011Z",
+        "date": "1859; Italy",
+        "dimensions": "",
+        "height": 2392,
+        "id": "82ab8724-cd04-45d9-8761-ae670b067bd1",
+        "image_url": "https://uploads1.wikiart.org/00129/images/francesco-hayez/the-kiss.jpg",
+        "info": "Il bacio (Italian pronunciation:\u00a0[il \u02c8ba\u02d0t\u0283o]; The Kiss) is an 1859 painting by the Italian artist Francesco Hayez. It is possibly his best known work. This painting conveys the main features of Italian Romanticism and has come to represent the spirit of the Risorgimento. It was commissioned by Alfonso Maria Visconti di Saliceto, who donated to the Pinacoteca di Brera after his death. The painting represents a couple from the Middle Ages, embracing while they kiss each other. It is among the most passionate and intense representations of a kiss in the history of Western art. The girl leans backwards, while the man bends his left leg so as to support her, simultaneously placing a foot on the step next to him as though poised to go at any moment. The couple, though at the center of the painting, are not recognizable, as Hayez wanted the action of the kissing to be at the center of the composition. In the left part of the canvas shadowy forms lurk in the corner to give an impression of conspiracy and danger. This painting has been regarded as a symbol of Italian Romanticism, of which it encompasses many features. On a more superficial level, the painting is the representation of a passionate kiss, which puts itself in accordance with the principles of Romanticism. Therefore, it emphasizes deep feelings rather than rational thought, and presents a reinterpretation and reevaluation of the Middle Ages in a patriotic and nostalgic tone. On a deeper level, the painting aims to portray the spirit of the Risorgimento. The girl's pale blue dress signifies France, which in 1859 (the year of the painting's creation) made an alliance with the Kingdom of Piedmont and Sardinia, enabling the latter to unify the many states of the Italian peninsula into the new kingdom of Italy. This painting is notable for its vivid colors and textures, in particular the blue dress, which appears to be a beautiful silk which shimmers before the viewer's eyes. The Kiss has enjoyed extensive popularity from its exhibition onward, especially in Italy, and has been the subject of much commentary. In the 1920s the art director of Perugina, one of Italy's leading chocolate manufacturers, revised the image of the painting and created the typical blue box of the popular \"Baci\" chocolates with the picture of two lovers. In 1954 the great Italian director Luchino Visconti took inspiration from the painting for one of the leading scenes of his masterpiece movie, Senso.",
+        "location": "Palazzo Brera, Milan, Italy",
+        "media": "oil, canvas",
+        "name": "The Kiss",
+        "original_source": "https://www.wikiart.org/en/francesco-hayez/the-kiss-1859",
+        "style": "Romanticism",
+        "updated_at": "2018-06-11T04:58:03.061012Z",
+        "width": 1920
+    },
+    "message": "Success"
+}
